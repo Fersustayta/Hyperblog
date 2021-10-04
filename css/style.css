@@ -3,7 +3,7 @@ body{
     font: size 34px;
     font-family: 'Courier New', Courier, monospace;
     background-color: white ;
-    color: black;
+    color:red;
 } 
 #container{
     width: 70%;
